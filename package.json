@@ -30,7 +30,7 @@
     "compression-webpack-plugin": "^4.0.0",
     "concurrently": "5.2.0",
     "craco-less": "^1.17.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "html-webpack-plugin": "^4.3.0",
     "less-loader": "^5.0.0",
     "lodash": "4.17.19",
